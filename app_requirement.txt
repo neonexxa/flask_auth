@@ -1,0 +1,5 @@
+Flask>=1.0.2
+Flask-Cors>=3.0.7
+psutil>=5.5.1
+flask_jwt_extended
+flask_bcrypt
